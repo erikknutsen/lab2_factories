@@ -13,5 +13,11 @@
   },
   "support": {
     "description": "Customer support, help requests, and technical issues"
+  },
+  "travel": {
+    "description": "Travel planning and bookings including flights, airlines, tickets, boarding passes, itineraries, hotels, reservations, check-in, rental cars, airports, gate changes, seat assignments, baggage, travel insurance, confirmation numbers"
+  },
+  "billing": {
+    "description": "Invoices and payments including receipts, statements, charges, refunds, credits, account balance, past due notices, payment confirmations, billing address, account number, due dates, invoice IDs"
   }
 }

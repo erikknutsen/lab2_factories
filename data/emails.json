@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "id": 1,
+    "subject": "Delta flight confirmation",
+    "body": "Your flight to SFO is confirmed. Boarding pass attached.",
+    "ground_truth": "travel"
+  },
+  {
+    "id": 2,
+    "subject": "Quarterly invoice",
+    "body": "Invoice #12345 for services rendered in August."
+  },
+  {
+    "id": 3,
+    "subject": "Delta flight confirmation",
+    "body": "Your flight to SFO is confirmed. Boarding pass attached. Hotel reservation included.",
+    "ground_truth": "travel"
+  },
+  {
+    "id": 4,
+    "subject": "Hotel booking confirmed",
+    "body": "Reservation #88921 at Hyatt Downtown. Check-in 3pm. Itinerary and rental car details attached.",
+    "ground_truth": "travel"
+  },
+  {
+    "id": 5,
+    "subject": "Gate change notification",
+    "body": "Your airline updated the gate. See boarding pass and baggage info for your flight.",
+    "ground_truth": "travel"
+  },
+  {
+    "id": 6,
+    "subject": "Invoice due",
+    "body": "Invoice #12345 is due on the 15th. Please submit payment to avoid late charges.",
+    "ground_truth": "billing"
+  },
+  {
+    "id": 7,
+    "subject": "Payment receipt",
+    "body": "We received your payment for invoice #12345. Attached is your receipt and confirmation number.",
+    "ground_truth": "billing"
+  },
+  {
+    "id": 8,
+    "subject": "Refund processed",
+    "body": "A refund of $42.00 has been issued to your account. Statement and credit details included.",
+    "ground_truth": "billing"
+  },
+  {
+    "id": 9,
+    "subject": "Project kickoff meeting",
+    "body": "Agenda: milestones, owners, and deliverables. Please review the project plan before the meeting.",
+    "ground_truth": "work"
+  },
+  {
+    "id": 10,
+    "subject": "Deadline extended",
+    "body": "Q3 deliverables deadline moved to next Friday. Update the tracker and notify stakeholders.",
+    "ground_truth": "work"
+  },
+  {
+    "id": 11,
+    "subject": "Budget review minutes",
+    "body": "Attaching meeting minutes from the quarterly budget review and open action items.",
+    "ground_truth": "work"
+  },
+  {
+    "id": 12,
+    "subject": "Birthday dinner plans",
+    "body": "Let’s meet at 7pm for your birthday. I made a reservation and sent the menu.",
+    "ground_truth": "personal"
+  },
+  {
+    "id": 13,
+    "subject": "Family photos",
+    "body": "Sharing the photos from last weekend. Let’s catch up soon and plan a visit.",
+    "ground_truth": "personal"
+  },
+  {
+    "id": 14,
+    "subject": "Weekend hangout",
+    "body": "Free on Saturday? Maybe coffee and a walk. Let me know what works.",
+    "ground_truth": "personal"
+  },
+  {
+    "id": 15,
+    "subject": "50% off summer sale",
+    "body": "Limited-time discount with coupon SAVE50. Free shipping on all orders this weekend.",
+    "ground_truth": "promotion"
+  },
+  {
+    "id": 16,
+    "subject": "Exclusive offer",
+    "body": "Members get early access and a special promo code. Shop today and save big.",
+    "ground_truth": "promotion"
+  },
+  {
+    "id": 17,
+    "subject": "Flash deal ends tonight",
+    "body": "Last chance to redeem your discount—prices go up at midnight. Use code FAST20.",
+    "ground_truth": "promotion"
+  },
+  {
+    "id": 18,
+    "subject": "Weekly newsletter",
+    "body": "This week’s roundup includes product tips, community highlights, and upcoming events.",
+    "ground_truth": "newsletter"
+  },
+  {
+    "id": 19,
+    "subject": "Monthly updates",
+    "body": "Our monthly newsletter covers release notes, tutorials, and user stories.",
+    "ground_truth": "newsletter"
+  },
+  {
+    "id": 20,
+    "subject": "Friday digest",
+    "body": "Your curated digest of articles, how-tos, and announcements for the week.",
+    "ground_truth": "newsletter"
+  },
+  {
+    "id": 21,
+    "subject": "Support ticket created",
+    "body": "Ticket #7421 opened for login errors. Our support team will investigate and update you.",
+    "ground_truth": "support"
+  },
+  {
+    "id": 22,
+    "subject": "Troubleshooting steps",
+    "body": "Please try clearing cache and reinstalling. Reply with logs if the issue persists.",
+    "ground_truth": "support"
+  },
+  {
+    "id": 23,
+    "subject": "Issue resolved",
+    "body": "Your ticket has been closed. The fix has been deployed. Let us know if you hit any errors.",
+    "ground_truth": "support"
+  },
+  {
+    "id": 24,
+    "subject": "Itinerary attached",
+    "body": "Here is the plan for the weekend trip with hotel and flights."
+  },
+  {
+    "id": 25,
+    "subject": "New statement available",
+    "body": "Your latest account statement is ready to view online."
+  },
+  {
+    "id": 26,
+    "subject": "Sprint planning invite",
+    "body": "Calendar invite for sprint planning and backlog grooming next Tuesday."
+  },
+  {
+    "id": 27,
+    "subject": "Movie night?",
+    "body": "Thinking of catching that new release Friday evening. Interested?"
+  },
+  {
+    "id": 28,
+    "subject": "New arrivals",
+    "body": "Check out our latest collection—limited stock and launch discount."
+  },
+  {
+    "id": 29,
+    "subject": "Community roundup",
+    "body": "This newsletter highlights user projects and upcoming meetups."
+  },
+  {
+    "id": 30,
+    "subject": "Error report",
+    "body": "App sent an error report for your account. We’re looking into it now."
+  },
+  {
+    "id": 31,
+    "subject": "Delta flight confirmation",
+    "body": "Your flight to SFO is confirmed. Boarding pass attached. Hotel reservation included.",
+    "ground_truth": "travel"
+  },
+  {
+    "id": 32,
+    "subject": "Invoice due",
+    "body": "Invoice #12345 is due on the 15th. Please submit payment.",
+    "ground_truth": "billing"
+  }
+]
